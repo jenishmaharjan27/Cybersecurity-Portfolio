@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 These are the technical and practical skills I have gained so far in my early cybersecurity learning. I am actively improving these abilities while exploring new concepts and tools to strengthen my understanding.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Exploitation and Post-Exploitation          | <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a>|
 
 ## Tools
 The tools listed below highlight my hands-on experience and growing understanding of cybersecurity. I use them to learn, detect, and address potential security threats.
@@ -51,5 +51,5 @@ The tools listed below highlight my hands-on experience and growing understandin
 ## Certifications
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a>
   
