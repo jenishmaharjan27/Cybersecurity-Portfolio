@@ -1,5 +1,6 @@
 # Hello, I'm Jenish Maharjan
 <a href="https://www.linkedin.com/in/jenish-maharjan-126059249/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@j_majarjan"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 I am an entry-level cybersecurity learner with a strong interest in protecting systems, data, and people from digital threats. My background in IT and recent training in cybersecurity have given me a basic understanding of security tools, threat detection, and safe computing practices. I enjoy solving problems, learning new techniques, and exploring how attackers think, so I can defend better. I am now building my skills and experience to begin my professional journey in cybersecurity.
 
