@@ -46,8 +46,6 @@ The tools listed below highlight my hands-on experience and growing understandin
 ### Security Information & Event Management (SIEM)
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-1C1C1C?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
