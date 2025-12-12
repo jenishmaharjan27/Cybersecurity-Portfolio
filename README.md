@@ -52,4 +52,5 @@ The tools listed below highlight my hands-on experience and growing understandin
 
 ## Projects
 - <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a>
+- <a href="https://github.com/jenishmaharjan27/Malware-Tracker">Malware Tracker using vibe coding in python script</a>
   
