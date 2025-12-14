@@ -14,6 +14,7 @@ These are the technical and practical skills I have gained so far in my early cy
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Exploitation and Post-Exploitation          | <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a>|
+| Digital Forensic and Incident Response         | <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a>|
 
 ## Tools
 The tools listed below highlight my hands-on experience and growing understanding of cybersecurity. I use them to learn, detect, and address potential security threats.
@@ -54,4 +55,6 @@ The tools listed below highlight my hands-on experience and growing understandin
 ## Projects
 - <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a>
 - <a href="https://github.com/jenishmaharjan27/Malware-Tracker">Malware Tracker using vibe coding in python script</a>
+- <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a>
+  
   
