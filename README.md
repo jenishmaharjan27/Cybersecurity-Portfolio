@@ -14,8 +14,8 @@ These are the technical and practical skills I have gained so far in my early cy
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cybersecurity Fundamentals      | |
-| Reconnaissance and Information Gathering       | <a href="https://github.com/jenishmaharjan27/End-to-End-Security-Assessmente">End-to-End Security Assessment Project</a> |
-| Vulnerability assessment and Penetration Testing (VAPT)       | <a href="https://github.com/jenishmaharjan27/End-to-End-Security-Assessmente">End-to-End Security Assessment Project</a> |
+| Reconnaissance and Information Gathering       | <a href="https://github.com/jenishmaharjan27/End-to-End-Security-Assessment">End-to-End Security Assessment Project</a> |
+| Vulnerability assessment and Penetration Testing (VAPT)       | <a href="https://github.com/jenishmaharjan27/End-to-End-Security-Assessment">End-to-End Security Assessment Project</a> |
 | Exploitation and Post-Exploitation          | <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a> |
 | Security Monitoring & Detection      | <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a> |
 | Digital Forensic and Incident Response         | <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a> |
