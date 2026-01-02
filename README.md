@@ -13,8 +13,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 These are the technical and practical skills I have gained so far in my early cybersecurity learning. I am actively improving these abilities while exploring new concepts and tools to strengthen my understanding.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Exploitation and Post-Exploitation          | <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a>|
-| Digital Forensic and Incident Response         | <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a>|
+| Cybersecurity Fundamentals      | |
+| Reconnaissance and Information Gathering       | <a href="https://github.com/jenishmaharjan27/End-to-End-Security-Assessmente">End-to-End Security Assessment Project</a> |
+| Vulnerability assessment and Penetration Testing (VAPT)       | <a href="https://github.com/jenishmaharjan27/End-to-End-Security-Assessmente">End-to-End Security Assessment Project</a> |
+| Exploitation and Post-Exploitation          | <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a> |
+| Security Monitoring & Detection      | <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a> |
+| Digital Forensic and Incident Response         | <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a> |
+| Basic Understanding of Linux      | |
+
 
 ## Tools
 The tools listed below highlight my hands-on experience and growing understanding of cybersecurity. I use them to learn, detect, and address potential security threats.
