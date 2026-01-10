@@ -62,5 +62,6 @@ The tools listed below highlight my hands-on experience and growing understandin
 - <a href="https://github.com/jenishmaharjan27/Reverse-Shell-Exploitation">Reverse Shell Exploitation</a>
 - <a href="https://github.com/jenishmaharjan27/Malware-Tracker">Malware Tracker using vibe coding in python script</a>
 - <a href="https://github.com/jenishmaharjan27/Digital-Forensics-and-Incident-Response">Digital Forensic and Incident Response</a>
+- <a href="https://github.com/jenishmaharjan27/End-to-End-Security-Assessment">End to End Security Assessment</a>
   
   
